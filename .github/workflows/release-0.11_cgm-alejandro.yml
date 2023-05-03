@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'cgm-alejandro'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7F1704F534E84C06BF4F2452A7B4D0B2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C82263B984EC44828B8729D767C74A7C }}
           package: .
